@@ -27,6 +27,6 @@ Long URLs are often hard to share, remember, and display—especially on platfor
 
 pip install -r requirements.txt
 
-3. Run the script:
+3. Run the script:-
 
-python url_shortener.py
+python url_shortener.py 
